@@ -27,7 +27,7 @@ body{
 .buttonsblock a {
     display: inline-block;
     min-width: 12em;
-	border: 1px solid #0c99d1;
+	border: 1px solid #e61c0a;
 	font-size: 1em;
 	font-weight: normal;
 	display: inline-block;
@@ -36,18 +36,18 @@ body{
 	padding: 0.8em 1.8em;
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
-	background: #22b0e8;
+	background: #e11111;
 	text-decoration: none;
     margin: 1em;
 }
 
 .buttonsblock a:hover {
-	background: #0c99d1;
+	background: #deed0b;
 }
 
 .buttonsblock a:active {
-	border-color: #3498db;
-	background: #3498db;
+	border-color: #53d61a;
+	background: #195e08;
 }
 
 /*------------------------------------*\
