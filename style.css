@@ -42,12 +42,12 @@ body{
 }
 
 .buttonsblock a:hover {
-	background: #deed0b;
+	background: red;
 }
 
 .buttonsblock a:active {
 	border-color: #53d61a;
-	background: #195e08;
+	background: red;
 }
 
 /*------------------------------------*\
@@ -80,7 +80,7 @@ body{
 }
 .ui-datepicker-header {
 	color: #fff;
-	background: #b46100;
+	background: red;
 	border: none;
 	margin: 0;
 }
@@ -158,7 +158,7 @@ body{
     width: 0.8em;
     height: 0.8em;
 	box-shadow: 0 0 0 2px #404040;
-    border: 3px solid #fff;
+    border: 3px solid red;
     border-radius: 50%;
     background: #fff;
     vertical-align: middle;
@@ -171,11 +171,11 @@ body{
     margin-left: 5px;
 }
 .calendar .radio:checked  + .radio-custom{
-    background: black;
+    background: blue;
 }
 
 .calendar .freeplaces {
-    color: black;
+    color: blue;
 	margin: 1.2em;
 }
 
